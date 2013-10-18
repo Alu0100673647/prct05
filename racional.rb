@@ -16,7 +16,7 @@ class Fraccion
 	puts "La suma es : #{numerador} / #{denominador}"
 	return numerador,denominador
 	end
-#cony
+
 #Metodo Restar
 
 	def resta(num_1, deno_1, num_2, deno_2)
